@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "inquirer": "^8.2.4",
-    "mysql2": "^3.6.5",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.2",
+    "node.js": "^0.0.1-security",
     "table": "^6.8.1"
   }
 }
